@@ -2,6 +2,8 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div>I'm Groot GPT</div>
+    <div>
+      <h1>I am Groot GPT</h1>
+    </div>
   )
 }
